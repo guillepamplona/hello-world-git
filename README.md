@@ -37,3 +37,10 @@ Underline 2
 | Nombre | Apellido | Documento |
 | ------ | -------- | --------- |
 | Juana | | Melo | | 6546165 |
+
+# Citas
+Esto es un texto referente a un cita que pondremos abajo: 
+> Esto es una cita.
+
+Esto es otro texto que no tiene nada que ver con la cita anterior: 
+> Esto es otra cita.
