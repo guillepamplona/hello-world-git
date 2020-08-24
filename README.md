@@ -30,3 +30,5 @@ Underline 2
 - [Esto es un link de Markdown](http://www.google.com.co/)
 - [Esto es un link al index](index.html)
 
+# Imagenes
+![Logo GitHub](https://image.flaticon.com/icons/svg/25/25231.svg)
