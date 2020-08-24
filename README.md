@@ -15,3 +15,13 @@ Underline 2
 
 - Primera forma formato **bold o strong**.
 - Segunda forma forma __bold o strong__.
+
+# Listas Ordenadas 
+1. Item
+2. Item
+3. Item
+
+# Listas Desordenadas 
+- Item
+- Item
+- Item
