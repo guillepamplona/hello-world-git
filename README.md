@@ -32,3 +32,8 @@ Underline 2
 
 # Imagenes
 ![Logo GitHub](https://image.flaticon.com/icons/svg/25/25231.svg)
+
+# Tabla
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Juana | | Melo | | 6546165 |
