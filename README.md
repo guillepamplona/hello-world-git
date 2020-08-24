@@ -44,3 +44,14 @@ Esto es un texto referente a un cita que pondremos abajo:
 
 Esto es otro texto que no tiene nada que ver con la cita anterior: 
 > Esto es otra cita.
+
+# Lineas divisoras
+Esto es un texto dividido por guiones.
+
+---
+Esto es un texto dividido por asteriscos.
+
+***
+Esto es un texto dividido por guines bajos.
+
+___
